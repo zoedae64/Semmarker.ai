@@ -8,7 +8,7 @@ Semmark is an AI bookmarker and knowledge graph for teams. A Chrome extension su
 ## Problem
 Work knowledge is scattered across chats, docs, tickets, and files. People spend 20–30% of time searching, recreate prior work, and AI assistants underperform without a unified, secure context with permissions.
 
-## Solution (in 30 seconds)
+## Solution
 - Capture from anywhere: URLs, PDFs/files, images (OCR), emails, Slack/Google/M365, Jira, GitHub.
 - Cardization: Chrome extension summarizes per paragraph and suggests cards with tags/citations before saving.
 - Graph organization: auto-link, dedupe, versioning; permission inheritance (RBAC/ABAC).
